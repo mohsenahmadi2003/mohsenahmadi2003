@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenahmadi2003&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohsenahmadi2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohsenahmadi2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohsenahmadi2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohsenahmadi2003&icon=0&color=9)](https://visitcount.itsvg.in)
