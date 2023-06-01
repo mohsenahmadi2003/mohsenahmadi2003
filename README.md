@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 A passionate backend developer
+🤩 A passionate backend and AI developer
 
 
 ## 🌐 Socials:
