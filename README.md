@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mohsenahmadi2003" target="_blank" title="LinkedIn" style="margin-left:6px">
     <img src="https://img.shields.io/badge/LinkedIn-mohsenahmadi2003-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://drive.google.com/file/d/1U7Vb0AH44SU_3hgtxRisXLYDbprK4YB2/view?usp=drive_link" target="_blank" title="Resume" style="margin-left:6px">
+  <a href="https://drive.google.com/file/d/1GL31XGQwIyNnLGocTkXWktoq08tTD3F2/view?usp=sharing" target="_blank" title="Resume" style="margin-left:6px">
     <img src="https://img.shields.io/badge/Resume-PDF-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume" />
   </a>
 </p>
