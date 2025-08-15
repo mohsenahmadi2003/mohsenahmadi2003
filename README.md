@@ -1,9 +1,121 @@
-# 💫 About Me:
-🤩 A passionate backend and AI developer
+<h1 align="center">Hi 👋, I'm Mohsen Ahmadi</h1>
+<h3 align="center">Backend Developer & AI Enthusiast — Building scalable systems and intelligent services</h3>
 
+<p align="center">
+  <a href="mailto:ahmadimohsen138262@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-ahmadimohsen138262%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://instagram.com/mohsenahmadi2003" target="_blank" title="Instagram" style="margin-left:6px">
+    <img src="https://img.shields.io/badge/Instagram-mohsenahmadi2003-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://github.com/mohsenahmadi2003" target="_blank" title="GitHub" style="margin-left:6px">
+    <img src="https://img.shields.io/badge/GitHub-mohsenahmadi2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohsenahmadi2003" target="_blank" title="LinkedIn" style="margin-left:6px">
+    <img src="https://img.shields.io/badge/LinkedIn-mohsenahmadi2003-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://drive.google.com/file/d/1U7Vb0AH44SU_3hgtxRisXLYDbprK4YB2/view?usp=drive_link" target="_blank" title="Resume" style="margin-left:6px">
+    <img src="https://img.shields.io/badge/Resume-PDF-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohsenahmadi2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-ahmadi-76297b239) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+## 👨‍💻 About Me
+I’m **Mohsen Ahmadi** — a Backend Developer and AI enthusiast focused on designing reliable, scalable systems and integrating intelligent features into production services. I enjoy solving backend architecture problems, improving system performance, and applying machine learning to real-world workflows.
+
+**Core focus:** API design, distributed systems, message-driven architectures, and ML/AI integration.
+
+---
+
+## 🔧 What I Do
+- Design and implement robust server-side systems (REST).  
+- Build scalable microservices and background workers.  
+- Integrate ML models into services for automation and analytics.  
+- Implement CI/CD and containerized deployments (Docker, AWS).  
+- Optimize performance with caching, queues, and database tuning.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/Celery-5B4B8A?style=for-the-badge&logo=celery&logoColor=white" alt="celery" />
+</p>
+
+### Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql-server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+</p>
+
+### Infrastructure & DevOps / Observability
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="kibana" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
+</p>
+
+### AI / ML & Data
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab" />
+</p>
+
+### Other Tools & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="qt" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+</p>
+
+---
+
+## ⚡ Highlights
+- Designed APIs and microservices that handle high load with resilience.  
+- Integrated ML pipelines for document classification and feature extraction.  
+- Implemented message-driven worker systems for asynchronous processing.  
+- Experienced in monitoring and observability (logs, metrics, dashboards).
+
+---
+
+## 🚀 Projects
+
+- **EShop — Digital Products Marketplace (11/2023 - 03/2024)**  
+  A Django-based e-commerce platform for selling digital products (licenses and downloads), featuring secure license delivery, background processing with Celery, and Elasticsearch-powered search.
+
+- **Cyber Play Store — Gaming Consoles & Game Accounts (04/2025 - 07/2025)**  
+  An online store for gaming consoles and game accounts with OTP-based authentication, Google reCAPTCHA, secure payment processing, background order workers, a recommendation engine, and Elasticsearch search.
+
+---
+
+## 📫 Contact
+- **Email:** ahmadimohsen138262@gmail.com  
+- **Phone:** +989306906765
+
+---
+
+> I'm open to Backend / ML Engineering roles, freelance projects, and collaborations on scalable systems or AI-powered services. Feel free to reach out!
