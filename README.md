@@ -104,11 +104,14 @@ I’m **Mohsen Ahmadi** — a Backend Developer and AI enthusiast focused on des
 
 ## 🚀 Projects
 
-- **EShop — Digital Products Marketplace (11/2023 - 03/2024)**  
-  A Django-based e-commerce platform for selling digital products (licenses and downloads), featuring secure license delivery, background processing with Celery, and Elasticsearch-powered search.
-
 - **Cyber Play Store — Gaming Consoles & Game Accounts (04/2025 - 07/2025)**  
   An online store for gaming consoles and game accounts with OTP-based authentication, Google reCAPTCHA, secure payment processing, background order workers, a recommendation engine, and Elasticsearch search.
+  
+- [**EShop — Digital Products Marketplace**](https://github.com/mohsenahmadi2003/EShop) (11/2023 – 03/2024)  
+  A Django-based e-commerce platform for selling digital products (licenses and downloads), featuring secure license delivery, background processing with Celery, and Elasticsearch-powered search.
+
+- [**Bank Project — Database Management System**](https://github.com/mohsenahmadi2003/DB-Project) (02/2024 – 05/2024)  
+  A database-driven banking system built with Python and MySQL, featuring account creation, inter-account transactions, loan management, installment payments, transaction history retrieval, and automated email notifications. Includes a fully designed ERD schema, stored procedures, and functions to manage complex banking operations.
 
 ---
 
